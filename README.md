@@ -6,11 +6,20 @@ FishPhish is a tool that helps you to hide URLs with some methods 🔭
 # Installation and use 🛠️
 
 **1.- download the files**
+
+![image](https://github.com/user-attachments/assets/f5a8e1f4-d829-4411-861e-0c8a4ff4ee01)
+
+
 **2.- make sure you have python installed, if not click here: https://www.python.org/downloads/**
+
+![image](https://github.com/user-attachments/assets/c2c61731-5560-4e21-95f1-cb4e82f9cead)
+
 **3.- open "FishPhish.py"**
+         -
 **4.- enter the legimate URL here**
 
 ![image](https://github.com/user-attachments/assets/67de3f25-e9ce-4ab5-9f93-4d913c592ba1)
+-
 **example: https://google.com**
 
 **5.- now enter the other URL here, example: suspicioussite.com**
